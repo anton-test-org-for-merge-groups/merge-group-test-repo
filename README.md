@@ -1,3 +1,3 @@
 # merge-group-test-repo
 
-test
+another test
